@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/cp-06-web/static/js/main.59afbb95.js",
+    "static/js/453.149e1e2b.chunk.js": "/cp-06-web/static/js/453.149e1e2b.chunk.js",
+    "static/media/HTML5 e CSS3.png": "/cp-06-web/static/media/HTML5 e CSS3.6b16c797a236ba74883d.png",
+    "static/media/Coletânea Front-End.png": "/cp-06-web/static/media/Coletânea Front-End.2376e0676a02dfa65cae.png",
+    "static/media/Acessibilidade na Web.png": "/cp-06-web/static/media/Acessibilidade na Web.4738a8f7ebaf89140029.png",
+    "static/media/Guia Front-End.png": "/cp-06-web/static/media/Guia Front-End.a5fab7d2d1d263871c3f.png",
+    "static/media/Sass.png": "/cp-06-web/static/media/Sass.aaa1243f85748fd16515.png",
+    "static/media/Turbine seu CSS.png": "/cp-06-web/static/media/Turbine seu CSS.ab1d032c5a520fb6716a.png",
+    "static/media/Liderança em Design.png": "/cp-06-web/static/media/Liderança em Design.91ab974e993abdc310bb.png",
+    "static/media/JavaScript Assertivo.png": "/cp-06-web/static/media/JavaScript Assertivo.8187bdbd730cabb3fc47.png",
+    "static/media/Progressive Web Apps.png": "/cp-06-web/static/media/Progressive Web Apps.77b1f5e666f6394ef2ae.png",
+    "static/media/Bootstrap4.png": "/cp-06-web/static/media/Bootstrap4.d5f3250f255914a6ae14.png",
+    "static/media/sacola.svg": "/cp-06-web/static/media/sacola.a1f2af1cb32c08ae75c7b23485161cbe.svg",
+    "static/media/perfil.svg": "/cp-06-web/static/media/perfil.d459471fbeda60d7f2a433b0f6b660de.svg",
+    "index.html": "/cp-06-web/index.html",
+    "static/media/logo.svg": "/cp-06-web/static/media/logo.9c54b187c810fdc3ecca29269446898f.svg",
+    "main.59afbb95.js.map": "/cp-06-web/static/js/main.59afbb95.js.map",
+    "453.149e1e2b.chunk.js.map": "/cp-06-web/static/js/453.149e1e2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.59afbb95.js"
+  ]
+}
